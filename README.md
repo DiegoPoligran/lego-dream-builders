@@ -1,4 +1,4 @@
-# 🧱 Plataforma de Comercio Electrónico LEGO - Proyecto Gerencia de proyectos informáticos
+# 🧱 Plataforma de Comercio Electrónico LEGO-Dream-Builders - Gerencia de proyectos informáticos
 
 *Desarrollo de una Plataforma de Comercio Electrónico para la Venta de Juguetes LEGO con Gestión Automatizada de Inventario y Control de Costos*
 
