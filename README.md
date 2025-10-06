@@ -1,4 +1,4 @@
-# 🧱 Plataforma de Comercio Electrónico LEGO - Proyecto Gerencia de proyectos informativos
+# 🧱 Plataforma de Comercio Electrónico LEGO - Proyecto Gerencia de proyectos informáticos
 
 *Desarrollo de una Plataforma de Comercio Electrónico para la Venta de Juguetes LEGO con Gestión Automatizada de Inventario y Control de Costos*
 
@@ -294,9 +294,9 @@ Las contribuciones son bienvenidas. Para contribuir:
 
 ## 📞 Contacto
 
-**Diego Pregonero Jiménez - Gestión de proyectos informaticos**
+**Diego Pregonero Jiménez - Gestión de proyectos informáticos**
 - **Institución**: Politécnico Grancolombiano
-- **Materia**: Gestión de proyectos informaticos
+- **Materia**: Gestión de proyectos informáticos
 - **Docente**: Luisa Maria Jiménez Ramos
 - **Grupo**: B04
 
