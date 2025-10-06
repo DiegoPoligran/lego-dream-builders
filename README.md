@@ -1,6 +1,6 @@
-# 🧱 Plataforma de Comercio Electrónico LEGO - Proyecto TSP
+# 🧱 Plataforma de Comercio Electrónico LEGO - Proyecto Gerencia de proyectos informativos
 
-*Desarrollo de una Plataforma de Comercio Electrónico para la Venta de Juguetes LEGO con Gestión Automatizada de Inventario y Control de Costos bajo la Metodología TSP*
+*Desarrollo de una Plataforma de Comercio Electrónico para la Venta de Juguetes LEGO con Gestión Automatizada de Inventario y Control de Costos*
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/dalexachs-projects/v0-poli)
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/7VgX8QiUDxE)
@@ -10,7 +10,7 @@
 
 ## 📋 Descripción del Proyecto
 
-Este proyecto representa una solución tecnológica integral para el comercio electrónico de juguetes LEGO, desarrollado bajo la metodología **Team Software Process (TSP)** por el equipo 6 del Politécnico Grancolombiano.
+Este proyecto representa una solución tecnológica integral para el comercio electrónico de juguetes LEGO, desarrollado por Diego del Politécnico Grancolombiano.
 
 ### 🎯 Objetivos del Proyecto
 
@@ -26,9 +26,9 @@ Este proyecto representa una solución tecnológica integral para el comercio el
 | Rol | Responsable | Responsabilidades Principales |
 |-----|-------------|-------------------------------|
 | **Team Leader** | Diego Pregonero | Coordinación general, gestión de comunicación y supervisión de objetivos |
-| **Planning Manager** | Ángel Martínez | Planificación, cronogramas y seguimiento de recursos |
-| **Development Manager** | Daniela Alexandra Chamorro | Liderazgo técnico, desarrollo de funcionalidades y calidad del código |
-| **Quality Manager** | Laura Sofía Solís | Aseguramiento de calidad, pruebas y validaciones |
+| **Planning Manager** | Diego Pregonero | Planificación, cronogramas y seguimiento de recursos |
+| **Development Manager** | Diego Pregonero | Liderazgo técnico, desarrollo de funcionalidades y calidad del código |
+| **Quality Manager** | Diego Pregonero | Aseguramiento de calidad, pruebas y validaciones |
 | **Support Manager** | Diego Pregonero | Soporte técnico, documentación y comunicación con usuarios |
 
 ## 🚀 Funcionalidades Implementadas
@@ -280,7 +280,7 @@ Para reportar bugs o solicitar nuevas funcionalidades:
 
 ## 📄 Licencia
 
-Este proyecto es desarrollado con fines académicos para el Politécnico Grancolombiano bajo la metodología TSP.
+Este proyecto es desarrollado con fines académicos para el Politécnico Grancolombiano.
 
 ## 🤝 Contribuciones
 
@@ -294,12 +294,12 @@ Las contribuciones son bienvenidas. Para contribuir:
 
 ## 📞 Contacto
 
-**Equipo de Desarrollo TSP - Subgrupo 6**
+**Diego Pregonero Jiménez - Gestión de proyectos informaticos**
 - **Institución**: Politécnico Grancolombiano
-- **Materia**: Desarrollo de Software en Equipos - TSP
-- **Docente**: Elizabeth Gómez Yepes
+- **Materia**: Gestión de proyectos informaticos
+- **Docente**: Luisa Maria Jiménez Ramos
 - **Grupo**: B04
 
 ---
 
-*Desarrollado con ❤️ por el Equipo 6 - TSP 2025*
+*Desarrollado por Diego Pregonero Jiménez 2025*
