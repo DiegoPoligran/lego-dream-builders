@@ -98,7 +98,7 @@ export const products: Product[] = [
     id: "7",
     name: "Darth Vader Helmet",
     price: 699900,
-    image: "/images/dart vader helmet.jpg",
+    image: "/images/darth vader helmet.jpg",
     category: "Star Wars",
     pieces: 834,
     ageRange: "18+",
