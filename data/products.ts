@@ -187,7 +187,7 @@ export const products: Product[] = [
   },
   {
     id: "14",
-    name: "Creator Expert Taj Mahal",
+    name: "Taj Mahal",
     price: 2999900,
     image: "/placeholder.svg?height=300&width=300",
     category: "Creator",
