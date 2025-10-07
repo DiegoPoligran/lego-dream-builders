@@ -3,8 +3,7 @@ import type { Metadata } from "next"
 import "./globals.css"
 import { CartProvider } from "@/hooks/use-cart"
 import { AuthProvider } from "@/hooks/use-auth"
-import { ToastContainer } from "react-toastify"
-import "react-toastify/dist/ReactToastify.css"
+import { ToastRenderer } from "@/components/toast-renderer"
 
 export const metadata: Metadata = {
   title: "v0 App",
@@ -22,18 +21,7 @@ export default function RootLayout({
       <body>
         <AuthProvider>
           <CartProvider>{children}
-            <ToastContainer
-              position="top-right"
-              autoClose={3000}
-              hideProgressBar={false}
-              newestOnTop={false}
-              closeOnClick
-              rtl={false}
-              pauseOnFocusLoss
-              draggable
-              pauseOnHover
-              theme="light"
-            />
+            <ToastRenderer />
           </CartProvider>
         </AuthProvider>
       </body>
