@@ -2,6 +2,7 @@
 
 import { createContext, useContext, useState, type ReactNode } from "react"
 import type { Product } from "@/data/products"
+import { toast } from "@/hooks/use-toast"
 
 export interface CartItem {
   product: Product
@@ -27,6 +28,11 @@ export function CartProvider({ children }: { children: ReactNode }) {
         return prev.map((i) => (i.product.id === product.id ? { ...i, quantity: i.quantity + quantity } : i))
       }
       return [...prev, { product, quantity }]
+    })
+    toast({
+      title: `${product.name} añadido al carrito!`,
+      description: "El producto se ha agregado exitosamente.",
+      duration: 3000, // Corrige el tiempo a 3 segundos
     })
   }
 
