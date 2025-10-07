@@ -32,7 +32,7 @@ export const products: Product[] = [
     id: "2",
     name: "Batman Brickheadz",
     price: 89900,
-    image: "/placeholder.svg?height=300&width=300",
+    image: "/images/batman.jpg",
     category: "Superhéroes",
     pieces: 124,
     ageRange: "10+",
